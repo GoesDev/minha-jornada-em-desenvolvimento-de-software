@@ -1,4 +1,4 @@
-# Minha Trilha em Desenvolvimento de Software
+# Minha Jornada em Desenvolvimento de Software
 
 ### 2025
 - **Cursos**
